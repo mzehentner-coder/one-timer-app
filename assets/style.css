@@ -41,6 +41,8 @@ h3 { font-size: 21px; margin: 0 0 6px; }
          font-family: "Oswald", sans-serif; font-weight: 600; font-size: 22px; }
 .brand img { border-radius: 9px; }
 .lang { font-size: 15px; }
+.links { display: flex; align-items: center; gap: 18px; }
+.back { font-size: 15px; }
 
 main > section { margin: 48px 0; }
 .hero { display: grid; grid-template-columns: 1fr; gap: 32px; align-items: center; margin-top: 24px !important; }
